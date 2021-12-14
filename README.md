@@ -1,5 +1,7 @@
 ## NFT Marketplace 
 
+Inspired by Nader Dabit's awesome tutorial project: https://github.com/BlockchainMemory/NFT-Marketplace.
+
 #### Local setup
 
 To run this project locally, follow these steps.
